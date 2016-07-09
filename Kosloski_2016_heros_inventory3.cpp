@@ -114,7 +114,7 @@ int main()
 	 // New Inventory
 
 	inventory.push_back("Micro Mini Gun");
-    inventory.push_back("Force Field Suit");
+        inventory.push_back("Force Field Suit");
 	inventory.push_back("Laser Rifle");
 	inventory.push_back("Battle Axe of Time");
 	inventory.push_back("Empty Slot");													 // an open space for use with the pointers
